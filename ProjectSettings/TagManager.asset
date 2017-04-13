@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1038512309
+    locked: 0
+  - name: World
+    uniqueID: 2951019665
+    locked: 0
+  - name: Player
+    uniqueID: 197921237
+    locked: 0
+  - name: Bullet
+    uniqueID: 533448779
+    locked: 0
+  - name: MuzzleFlash
+    uniqueID: 2583998669
+    locked: 0
+  - name: Foreground
+    uniqueID: 4197659345
+    locked: 0
